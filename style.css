@@ -206,3 +206,32 @@ body{
   }
 
 }
+@media (prefers-reduced-motion) {
+
+}
+@media print {
+    background-image: none;
+    animation
+
+.card {
+    border: solid 2px #45ADDD;
+    flex-basis: 250px;
+      }
+.pricing{
+
+
+}
+
+.logo {
+    width: 50px;
+    animation-name: grow;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+.gallery{
+        visibility:hidden;
+      }
+}
+
+
