@@ -98,6 +98,7 @@ body{
 
   .card > header {
     background: #288088;
+    position: static;
     border: #45ADAD solid 2px;
     padding-top: 20px;
     padding-bottom: 20px;
